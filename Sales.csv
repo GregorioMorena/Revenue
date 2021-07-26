@@ -1,4 +1,4 @@
-Día;MesStr;Año;Órdenes;Comensales;Valor medio (Suma);Valor medio (Total);Valor medio;Suma;Descuento;Subtotal;Impuesto;Total
+DÃ­a;MesStr;AÃ±o;Ã“rdenes;Comensales;Valor medio (Suma);Valor medio (Total);Valor medio;Suma;Descuento;Subtotal;Impuesto;Total
 27;Mayo;2021;8,00;8,00;5,68;5,68;00:02:46;45,45;;41,33;4,12;45,45
 26;Mayo;2021;36,00;36,00;9,96;9,96;00:06:37;358,70;;326,10;32,60;358,70
 25;Mayo;2021;17,00;17,00;10,00;9,67;00:04:24;169,95;5,53;149,47;14,94;164,41
